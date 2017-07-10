@@ -1,0 +1,2 @@
+# CamelOSGiScala
+Camel OSGi Scala
